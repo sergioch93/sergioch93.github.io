@@ -14,7 +14,7 @@ header, footer {
     color: rgb(255, 253, 253);
     text-align: left;
     padding: 0 2.5rem;
-    border-radius: 2rem;
+    border-radius: 0.5rem;
     position: relative;
 }
 
