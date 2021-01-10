@@ -12,10 +12,10 @@ nav, header, main, footer {
 header, footer {
     background: rgb(33, 100, 162);
     color: rgb(255, 253, 253);
-    text-align: left;
+    text-align: center;
     padding: 0 2.5rem;
     border-radius: 1rem;
-    position: relative;
+    
 }
 
 header, footer, nav {
