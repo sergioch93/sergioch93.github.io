@@ -10,7 +10,6 @@ nav, header, main, footer {
 }
 
 header, footer {
-    /*background-color:rgb(166, 78, 248);*/
     background: rgb(33, 100, 162);
     color: rgb(255, 253, 253);
     text-align: left;
@@ -46,5 +45,5 @@ img {
     display: inline-block;
     z-index: 1;
     border-radius: 5px;
-    /*transform: rotate(25deg);*/
+    
 }
